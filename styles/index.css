@@ -1,0 +1,9 @@
+header {
+    user-select: none;
+}
+
+#images {
+    display: flex;
+    gap: 20px;
+    user-select: none;
+}
